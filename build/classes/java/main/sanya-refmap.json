@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "com/sanya/client/mixin/HeldItemRendererMixin": {
+      "renderArm": "Lnet/minecraft/class_759;method_3216(Lnet/minecraft/class_4587;Lnet/minecraft/class_11659;ILnet/minecraft/class_1306;)V",
+      "renderArmHoldingItem": "Lnet/minecraft/class_759;method_3219(Lnet/minecraft/class_4587;Lnet/minecraft/class_11659;IFFLnet/minecraft/class_1306;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/sanya/client/mixin/HeldItemRendererMixin": {
+        "renderArm": "Lnet/minecraft/class_759;method_3216(Lnet/minecraft/class_4587;Lnet/minecraft/class_11659;ILnet/minecraft/class_1306;)V",
+        "renderArmHoldingItem": "Lnet/minecraft/class_759;method_3219(Lnet/minecraft/class_4587;Lnet/minecraft/class_11659;IFFLnet/minecraft/class_1306;)V"
+      }
+    }
+  }
+}

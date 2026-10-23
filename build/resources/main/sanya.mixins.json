@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.sanya.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "sanya-refmap.json",
+  "client": [
+    "HeldItemRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

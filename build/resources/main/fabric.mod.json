@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"sanya","version":"0.0.6","name":"SANЯ CLIENT","description":"Жартівливий клієнтський HUD та візуальні налаштування для Minecraft 1.21.11.","environment":"client","entrypoints":{"client":["com.sanya.client.SanyaClient"]},"mixins":["sanya.mixins.json"],"depends":{"fabricloader":">=0.18.1","minecraft":"~1.21.11","java":">=21","fabric-api":"*"}}
